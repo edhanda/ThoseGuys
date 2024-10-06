@@ -52,8 +52,21 @@ body, h1, h2, p {
 
 .jumbotron {
   position: relative;
+  padding: 10%;
   text-shadow: 0 1px 4px rgba(98, 5, 5, 0.188);
 }
+
+.jumbotron p {
+  font-size: 1.25rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.jumbotron h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
 
 .card {
   height: 100%;
@@ -78,4 +91,19 @@ body, h1, h2, p {
 }
 .btn:hover {
   background-color: #320202;
+}
+
+.container {
+  
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(141, 6, 6, 0.1);
+}
+
+h2 {
+  color: #023503; /* Use your primary color */
+}
+
+.list-group-item {
+  font-size: 1.1rem; /* Slightly larger font size for readability */
 }
