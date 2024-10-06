@@ -2,38 +2,53 @@
     ViewData["Title"] = "CO2 Emissions";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Interactive Map.</p>
-</div>
 
 <!-- Add a div for the map -->
-<div id="map" style="height: 600px; width: 100%;"></div>
 
-<!-- Include Leaflet.js -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<!-- Include Leaflet.js 
+<<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<div class="container">
+    <h2>CO2 Emissions Interactive Map</h2>
+    <p>Explore CO2 emissions data with this interactive map provided by the U.S. GHG Center. Use the tools below to navigate and analyze emissions data from various regions.</p>
+    
+    <iframe src="https://worldview.earthdata.nasa.gov/?v=-126.23208594462223,-81.9751863967016,151.31283283007858,62.39876549196111&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,AIRS_L3_Carbon_Dioxide_AIRS_AMSU_Monthly,MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2002-09-02-T00%3A00%3A00Z&em=true" role="application" sandbox="allow-modals allow-scripts allow-same-origin allow-forms allow-popups" width="100%" height="100%" allow="fullscreen; autoplay;" loading="lazy">
+    </iframe>
+</div>>
+-->
 
-<script>
-    // Define the bounds for Canada
-    var canadaBounds = [
-        [41.6765556, -141.00187], // Southwest corner (approx)
-        [83.11388, -52.63629]     // Northeast corner (approx)
-    ];
 
-    // Initialize the map and fit it within Canada bounds
-    var map = L.map('map').fitBounds(canadaBounds);
+<div class="media-container">
+    <div class="video-section">
+        <h3>Increasing CO<sub>2</sub> Levels in North America</h3>
+        <video controls>
+            <source src="/videos/NASAWorldview .mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 
-    // Add OpenStreetMap tile layer
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors'
-    }).addTo(map);
+    <div class="image-section">
+        <img src="/images/CO2.png" alt="CO2 Levels Visualization" class="co2-image">
+    </div>
+</div>
 
-    // Restrict panning and zooming to Canada's bounding box
-    map.setMaxBounds(canadaBounds);
-    map.setMinZoom(4);  // Set an appropriate zoom level for Canada
-
-    L.marker([56.1304, -106.3468]).addTo(map)
-        .bindPopup('A pretty marker.<br> Easily customizable.')
-        .openPopup();
-</script>
+<div class="info-section">
+    <h3>Understanding CO<sub>2</sub> Levels</h3>
+    <p>
+        The video displays monthly gridded retrievals of Carbon Dioxide in the free troposphere from January 2010 to February 2017. 
+        The data is sourced from the AIRS instrument aboard the Aqua satellite and illustrates how CO<sub>2</sub> levels have fluctuated over time.
+    </p>
+    <p>
+        The gradient image above shows CO<sub>2</sub> concentrations ranging from <strong>&lt; 390 ppmv</strong> (parts per million by volume) to <strong>&gt; 405 ppmv</strong>.
+    </p>
+    <p>
+        Over the years, the increase in CO<sub>2</sub> levels has worsened, highlighting the urgent need for change in our environmental practices and policies. 
+        Addressing climate change is crucial for the sustainability of our planet.
+    </p>
+    <p>
+        For more information on the AIRS instrument and its data products, visit <a href="https://airs.jpl.nasa.gov" target="_blank">AIRS Overview</a>.
+    </p>
+    <p>
+        Explore an interactive map of CO<sub>2</sub> levels at <a href="https://worldview.earthdata.nasa.gov/" target="_blank">NASA Worldview</a>.
+    </p>
+</div>

@@ -107,3 +107,40 @@ h2 {
 .list-group-item {
   font-size: 1.1rem; /* Slightly larger font size for readability */
 }
+
+.media-container {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  margin: 20px 0; /* Add margin to separate the media from other content */
+}
+
+.video-section, .image-section {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.video-section h3, .info-section h3 {
+  color: #023503; /* Use your primary color */
+}
+
+.co2-image {
+  
+  max-width: 100%;
+  padding-top: 10%;
+  border-radius: 8px; /* Rounded corners for the image */
+  
+}
+
+video {
+  width: 100%; /* Make the video responsive */
+  border-radius: 8px; /* Rounded corners for the video */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect */
+}
+
+.info-section {
+  margin: 20px 0; /* Add margin above and below the info section */
+  padding: 20px;
+  border: 1px solid #027d2122; /* Border around the info section */
+  border-radius: 8px; /* Rounded corners */
+  background-color: #f9f9f9; /* Light background for contrast */
+}
