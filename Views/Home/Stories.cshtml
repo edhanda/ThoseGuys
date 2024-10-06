@@ -1,73 +1,63 @@
-@{
-    ViewData["Title"] = "Stories";
-}
+<head>
+    <link rel="stylesheet" href="/path/to/your/styles.css"> <!-- Link your external CSS file here -->
+</head>
 
-<h2>Climate Change Stories</h2>
+<body>
+    <h2>Climate Change Stories</h2>
 
-<div class="card-deck">
-    <!-- Story 1: Impact of Climate Change on Wildlife -->
-    <div class="card">
-        <!-- Add the elephant image at the top of the card -->
-        <img class="card-img-top" src="/images/elephant.jpg" alt="Impact on Wildlife" style="height: 250px; object-fit: cover;">
-        <div class="card-body">
-            <h5 class="card-title">Story 1: Impact on Wildlife</h5>
-            <p class="card-text">As global temperatures rise, many species are struggling to adapt, leading to changes in habitats, migration patterns, and population declines.</p>
-            <a href="https://www.ifaw.org/ca-en/journal/impact-climate-change-animals#:~:text=Habitat%20loss%3A%20Rising%20temperatures%20affect,other%20animals%20to%20die%20off." class="btn btn-primary" target="_blank">Read More</a>
+    <div class="card-deck">
+        <!-- Impact of Climate Change on Wildlife -->
+        <div class="card">
+            <img class="card-img-top" src="/images/elephant1.jpg" alt="Impact on Wildlife" style="object-position: 0 -50px;">
+            <div class="card-body">
+                <h5 class="card-title">The Devastating Effects of Climate Change on Wildlife</h5>
+                <p class="card-text">As global temperatures continue to rise, wildlife is facing unprecedented challenges. Habitats are shrinking, food sources are becoming scarce, and migration patterns are disrupted. For many species, this means a struggle to survive, with some even facing extinction. <a href="https://www.ifaw.org/ca-en/journal/impact-climate-change-animals#:~:text=Habitat%20loss%3A%20Rising%20temperatures%20affect,other%20animals%20to%20die%20off." class="btn btn-primary" target="_blank">Read More</a></p>
+            </div>
+        </div>
+
+        <!-- Forest Fires -->
+        <div class="card">
+            <img class="card-img-top" src="/images/wildfire.jpg" alt="Forest Fires">
+            <div class="card-body">
+                <h5 class="card-title">The Increasing Threat of Forest Fires</h5>
+                <p class="card-text">Forest fires are becoming more frequent and more intense, fueled by climate change. As dry seasons lengthen and temperatures soar, entire ecosystems are being destroyed, releasing massive amounts of CO2 back into the atmosphere. This feedback loop is accelerating global warming and pushing wildlife out of their homes. <a href="https://www.wri.org/insights/global-trends-forest-fires" class="btn btn-primary" target="_blank">Read More</a></p>
+            </div>
+        </div>
+
+        <!-- Droughts -->
+        <div class="card">
+            <img class="card-img-top" src="/images/desert.jpg" alt="Droughts">
+            <div class="card-body">
+                <h5 class="card-title">Droughts and Water Scarcity: A Looming Crisis</h5>
+                <p class="card-text">Prolonged droughts are becoming more common in regions around the world, threatening agriculture, water supplies, and food security. These conditions are making it harder for crops to grow, leading to potential food shortages in the near future. <a href="https://www.un.org/en/climatechange/science/climate-issues/water" class="btn btn-primary" target="_blank">Read More</a></p>
+            </div>
+        </div>
+
+        <!-- Ocean Acidification -->
+        <div class="card">
+            <img class="card-img-top" src="/images/fishy.jpg" alt="Ocean Acidification">
+            <div class="card-body">
+                <h5 class="card-title">Ocean Acidification: A Hidden Consequence of Climate Change</h5>
+                <p class="card-text">Rising levels of CO2 are not only warming our atmosphere but are also being absorbed by the oceans, leading to acidification. This phenomenon poses a serious threat to marine ecosystems, especially coral reefs and shellfish populations. <a href="https://climate.nasa.gov/explore/ask-nasa-climate/182/the-acid-test/" class="btn btn-primary" target="_blank">Read More</a></p>
+            </div>
+        </div>
+
+        <!-- Melting Glaciers -->
+        <div class="card">
+            <img class="card-img-top" src="/images/polarbear2.jpg" alt="Melting Glaciers">
+            <div class="card-body">
+                <h5 class="card-title">Melting Glaciers and the Rising Threat of Sea Levels</h5>
+                <p class="card-text">The Arctic and Antarctic regions are warming at a faster rate than the rest of the planet, causing glaciers to melt at alarming speeds. This not only endangers species like the polar bear but also contributes to rising sea levels. <a href="https://www.weforum.org/agenda/2022/12/polar-bears-and-climate-change-what-does-the-science-say/#:~:text=Scientists%20have%20defined%2019%20key%20regionss" class="btn btn-primary" target="_blank">Read More</a></p>
+            </div>
+        </div>
+
+        <!-- Agricultural Changes -->
+        <div class="card">
+            <img class="card-img-top" src="/images/agriculture1.jpg" alt="Agricultural Changes">
+            <div class="card-body">
+                <h5 class="card-title">Agriculture in the Face of Climate Change</h5>
+                <p class="card-text">Climate change is drastically altering agricultural practices worldwide. Shifts in temperature and precipitation patterns are affecting crop yields, putting food security at risk. Farmers are now facing the challenge of adapting to these new conditions, with far-reaching implications for global food supply chains. <a href="https://climate.nasa.gov/news/3124/global-climate-change-impact-on-crops-expected-within-10-years-nasa-study-finds/#:~:text=en%20espa%C3%B1ol%20aqui.-,Climate%20change%20may%20affect%20the%20production%20of%20maize%20(corn)%20and,see%20growth%20of%20about%2017%25." class="btn btn-primary" target="_blank">Read More</a></p>
+            </div>
         </div>
     </div>
-    <br>
-
-    <!-- Story 2: Forest Fires and Their Increasing Frequency -->
-    <div class="card">
-        <img class="card-img-top" src="/images/wildfire.jpg" alt="Forest Fires" style="height: 250px; object-fit: cover;">
-        <div class="card-body">
-            <h5 class="card-title">Story 2: Forest Fires</h5>
-            <p class="card-text">Climate change is driving longer and more intense wildfire seasons, destroying ecosystems and emitting massive amounts of CO2 into the atmosphere.</p>
-            <a href="https://www.wri.org/insights/global-trends-forest-fires" class="btn btn-primary" target="_blank">Read More</a>
-        </div>
-    </div>
-    <br>
-
-    <!-- Story 3: Droughts and Water Scarcity -->
-    <div class="card">
-        <img class="card-img-top" src="/images/drought.jpg" alt="Droughts" style="height: 250px; object-fit: cover;">
-        <div class="card-body">
-            <h5 class="card-title">Story 3: Droughts</h5>
-            <p class="card-text">Increased global temperatures have led to prolonged droughts, affecting agriculture, food security, and access to fresh water for millions.</p>
-            <a href="https://www.un.org/en/climatechange/science/climate-issues/water" class="btn btn-primary" target="_blank">Read More</a>
-        </div>
-    </div>
-    <br>
-
-    <!-- Story 4: Ocean Acidification and Its Impact on Marine Life -->
-    <div class="card">
-        <img class="card-img-top" src="/images/fishy.jpg" alt="Ocean Acidification" style="height: 250px; object-fit: cover;">
-        <div class="card-body">
-            <h5 class="card-title">Story 4: Ocean Acidification</h5>
-            <p class="card-text">Rising CO2 levels are causing oceans to become more acidic, threatening marine ecosystems, particularly coral reefs, and shellfish populations.</p>
-            <a href="https://climate.nasa.gov/explore/ask-nasa-climate/182/the-acid-test/" class="btn btn-primary" target="_blank">Read More</a>
-        </div>
-    </div>
-    <br>
-
-    <!-- Story 5: Melting Glaciers and Rising Sea Levels -->
-    <div class="card">
-        <img class="card-img-top" src="/images/polarbear.jpg" alt="Melting Glaciers" style="height: 250px; object-fit: cover;">
-        <div class="card-body">
-            <h5 class="card-title">Story 5: Melting Glaciers</h5>
-            <p class="card-text">As global temperatures rise, glaciers are melting at an alarming rate, contributing to rising sea levels and posing threats to coastal cities and island nations.</p>
-            <a href="https://www.weforum.org/agenda/2022/12/polar-bears-and-climate-change-what-does-the-science-say/#:~:text=Scientists%20have%20defined%2019%20key%20regionss" class="btn btn-primary" target="_blank">Read More</a>
-        </div>
-    </div>
-    <br>
-
-    <!-- Story 6: Agricultural Changes -->
-    <div class="card">
-        <img class="card-img-top" src="/images/agriculture.jpg" alt="Agricultural Changes" style="height: 250px; object-fit: cover;">
-        <div class="card-body">
-            <h5 class="card-title">Story 6: Agricultural Changes</h5>
-            <p class="card-text">Changes in climate patterns, including temperature shifts and altered rainfall patterns, are severely affecting agricultural productivity worldwide.</p>
-            <a href="https://climate.nasa.gov/news/3124/global-climate-change-impact-on-crops-expected-within-10-years-nasa-study-finds/#:~:text=en%20espa%C3%B1ol%20aqui.-,Climate%20change%20may%20affect%20the%20production%20of%20maize%20(corn)%20and,see%20growth%20of%20about%2017%25." class="btn btn-primary" target="_blank">Read More</a>
-        </div>
-    </div>
-</div>
+</body>
