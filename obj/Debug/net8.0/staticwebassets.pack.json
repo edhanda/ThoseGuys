@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\images\\elephant1.jpg"
     },
     {
+      "Id": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\elephant2.jpeg",
+      "PackagePath": "staticwebassets\\images\\elephant2.jpeg"
+    },
+    {
       "Id": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\fishy.jpg",
       "PackagePath": "staticwebassets\\images\\fishy.jpg"
     },

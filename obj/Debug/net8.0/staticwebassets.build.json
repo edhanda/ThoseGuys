@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ydjS6zUnhvhkF9pbWI5JyM4tuG8prhAlIZ6OTM1Z1Ag=",
+  "Hash": "1rFTDp+QHJntUUutqorHpbgYdvQqqGjeK21U4guSU3o=",
   "Source": "ClimateStoryApp",
   "BasePath": "_content/ClimateStoryApp",
   "Mode": "Default",
@@ -262,6 +262,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\elephant1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\elephant2.jpeg",
+      "SourceId": "ClimateStoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "BasePath": "_content/ClimateStoryApp",
+      "RelativePath": "images/elephant2.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\elephant2.jpeg"
     },
     {
       "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\fishy.jpg",

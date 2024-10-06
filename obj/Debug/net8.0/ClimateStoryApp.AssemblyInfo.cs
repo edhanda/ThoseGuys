@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClimateStoryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3259bb91614a267139fd2bbd06b27c045a0c7b4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4788d94bac02b2292fbfe607fc09292360f894e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClimateStoryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClimateStoryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
