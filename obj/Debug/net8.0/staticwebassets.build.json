@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "iBrjdPAxMIvJsaM6r2S+TIWGSbjUUUtPEFiueKs2gy0=",
-=======
-  "Hash": "1rFTDp+QHJntUUutqorHpbgYdvQqqGjeK21U4guSU3o=",
->>>>>>> aece69daa87232c042e4f1d3f1b8533c0fa38036
+  "Hash": "wbwZ9T8sCFAqHKDE7Snc9XmhnSb8Du0EUrCii4GTnCk=",
   "Source": "ClimateStoryApp",
   "BasePath": "_content/ClimateStoryApp",
   "Mode": "Default",
@@ -14,17 +10,17 @@
     {
       "Name": "ClimateStoryApp\\wwwroot",
       "Source": "ClimateStoryApp",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClimateStoryApp.styles.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClimateStoryApp.styles.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "ClimateStoryApp.styles.css",
       "AssetKind": "All",
@@ -37,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClimateStoryApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClimateStoryApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStoryApp.bundle.scp.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStoryApp.bundle.scp.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "ClimateStoryApp.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStoryApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStoryApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\css\\site.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -78,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\data\\GHG.csv",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\data\\GHG.csv",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "data/GHG.csv",
       "AssetKind": "All",
@@ -97,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\data\\GHG.csv"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\data\\NFDB_point_20240613.csv",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\data\\NFDB_point_20240613.csv",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "data/NFDB_point_20240613.csv",
       "AssetKind": "All",
@@ -116,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\data\\NFDB_point_20240613.csv"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\data\\OilGas.csv",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\data\\OilGas.csv",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "data/OilGas.csv",
       "AssetKind": "All",
@@ -135,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\data\\OilGas.csv"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\favicon.ico",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -154,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\agriculture.jpg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\agriculture.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/agriculture.jpg",
       "AssetKind": "All",
@@ -173,7 +169,25 @@
       "OriginalItemSpec": "wwwroot\\images\\agriculture.jpg"
     },
     {
-<<<<<<< HEAD
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\agriculture1.jpg",
+      "SourceId": "ClimateStoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
+      "BasePath": "_content/ClimateStoryApp",
+      "RelativePath": "images/agriculture1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\agriculture1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\CO2emissions.avif",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
@@ -193,32 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CO2emissions.avif"
     },
     {
-      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\drought.jpg",
-=======
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\agriculture1.jpg",
->>>>>>> aece69daa87232c042e4f1d3f1b8533c0fa38036
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\desert.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
-      "BasePath": "_content/ClimateStoryApp",
-      "RelativePath": "images/agriculture1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\agriculture1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\desert.jpg",
-      "SourceId": "ClimateStoryApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/desert.jpg",
       "AssetKind": "All",
@@ -234,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\desert.jpg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\drought.jpg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\drought.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/drought.jpg",
       "AssetKind": "All",
@@ -253,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\drought.jpg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\elephant.jpg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\elephant.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/elephant.jpg",
       "AssetKind": "All",
@@ -272,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\elephant.jpg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\elephant1.jpg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\elephant1.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/elephant1.jpg",
       "AssetKind": "All",
@@ -291,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\elephant1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\elephant2.jpeg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\elephant2.jpeg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/elephant2.jpeg",
       "AssetKind": "All",
@@ -310,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\elephant2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\fishy.jpg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\fishy.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/fishy.jpg",
       "AssetKind": "All",
@@ -329,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fishy.jpg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\polarbear.jpg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\polarbear.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/polarbear.jpg",
       "AssetKind": "All",
@@ -348,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\polarbear.jpg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\polarbear2.jpg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\polarbear2.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/polarbear2.jpg",
       "AssetKind": "All",
@@ -367,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\polarbear2.jpg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\images\\wildfire.jpg",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\wildfire.jpg",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "images/wildfire.jpg",
       "AssetKind": "All",
@@ -386,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\wildfire.jpg"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\js\\site.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -405,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -424,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -443,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -462,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -481,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -500,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -519,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -538,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -557,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -576,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -595,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -614,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -633,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -652,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -671,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -690,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -709,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -728,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -747,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -766,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -785,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -804,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -823,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -842,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -861,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -880,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -899,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -918,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -937,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -956,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -975,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -994,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1013,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1032,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1051,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1070,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1089,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1108,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1127,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1146,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1165,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1184,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1203,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1222,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1241,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1260,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1279,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1298,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1317,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1336,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1355,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1374,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1393,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1412,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1431,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1450,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1469,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ClimateStoryApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\ClimateStory\\ClimateStoryApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
       "BasePath": "_content/ClimateStoryApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
