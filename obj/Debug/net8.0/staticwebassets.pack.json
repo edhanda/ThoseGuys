@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\CO2.PNG",
+      "PackagePath": "staticwebassets\\images\\CO2.PNG"
+    },
+    {
       "Id": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\CO2emissions.avif",
       "PackagePath": "staticwebassets\\images\\CO2emissions.avif"
     },
@@ -303,6 +307,10 @@
     {
       "Id": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\videos\\NASAWorldview .mp4",
+      "PackagePath": "staticwebassets\\videos\\NASAWorldview .mp4"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClimateStoryApp.Microsoft.AspNetCore.StaticWebAssets.props",

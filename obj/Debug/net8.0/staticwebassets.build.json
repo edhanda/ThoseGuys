@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wbwZ9T8sCFAqHKDE7Snc9XmhnSb8Du0EUrCii4GTnCk=",
+  "Hash": "2g99pO6ooIitlvDVroAKeL5ayJkqj6qIZ2zpr+Z/ncY=",
   "Source": "ClimateStoryApp",
   "BasePath": "_content/ClimateStoryApp",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\agriculture1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\CO2.PNG",
+      "SourceId": "ClimateStoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
+      "BasePath": "_content/ClimateStoryApp",
+      "RelativePath": "images/CO2.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CO2.PNG"
     },
     {
       "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\CO2emissions.avif",
@@ -1478,6 +1497,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\videos\\NASAWorldview .mp4",
+      "SourceId": "ClimateStoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
+      "BasePath": "_content/ClimateStoryApp",
+      "RelativePath": "videos/NASAWorldview .mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\NASAWorldview .mp4"
     }
   ]
 }
