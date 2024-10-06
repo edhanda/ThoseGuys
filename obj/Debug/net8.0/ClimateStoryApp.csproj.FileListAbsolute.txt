@@ -28,3 +28,4 @@ C:\Users\Esha\Desktop\ClimateStoryApp\obj\Debug\net8.0\refint\ClimateStoryApp.dl
 C:\Users\Esha\Desktop\ClimateStoryApp\obj\Debug\net8.0\ClimateStoryApp.pdb
 C:\Users\Esha\Desktop\ClimateStoryApp\obj\Debug\net8.0\ClimateStoryApp.genruntimeconfig.cache
 C:\Users\Esha\Desktop\ClimateStoryApp\obj\Debug\net8.0\ref\ClimateStoryApp.dll
+C:\Users\Esha\Desktop\ClimateStoryApp\obj\Debug\net8.0\ClimateStoryApp.sourcelink.json

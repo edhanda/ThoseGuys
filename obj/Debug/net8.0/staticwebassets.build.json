@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sYYZ862fD4F536DH4voABX4KtE9noAeUkMYp7xZAPgA=",
+  "Hash": "iBrjdPAxMIvJsaM6r2S+TIWGSbjUUUtPEFiueKs2gy0=",
   "Source": "ClimateStoryApp",
   "BasePath": "_content/ClimateStoryApp",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\agriculture.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\CO2emissions.avif",
+      "SourceId": "ClimateStoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\",
+      "BasePath": "_content/ClimateStoryApp",
+      "RelativePath": "images/CO2emissions.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CO2emissions.avif"
     },
     {
       "Identity": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\drought.jpg",

@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\CO2emissions.avif",
+      "PackagePath": "staticwebassets\\images\\CO2emissions.avif"
+    },
+    {
       "Id": "C:\\Users\\Esha\\Desktop\\ClimateStoryApp\\wwwroot\\images\\agriculture.jpg",
       "PackagePath": "staticwebassets\\images\\agriculture.jpg"
     },
